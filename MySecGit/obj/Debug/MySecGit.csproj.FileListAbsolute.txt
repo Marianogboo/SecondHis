@@ -1,1 +1,7 @@
 c:\users\chisom\documents\visual studio 2015\Projects\MySecGit\MySecGit\bin\Debug\MySecGit.exe.config
+C:\Users\Chisom\Documents\Visual Studio 2015\Projects\SecondHis\MySecGit\bin\Debug\MySecGit.exe.config
+C:\Users\Chisom\Documents\Visual Studio 2015\Projects\SecondHis\MySecGit\bin\Debug\MySecGit.exe
+C:\Users\Chisom\Documents\Visual Studio 2015\Projects\SecondHis\MySecGit\bin\Debug\MySecGit.pdb
+C:\Users\Chisom\Documents\Visual Studio 2015\Projects\SecondHis\MySecGit\obj\Debug\MySecGit.csprojResolveAssemblyReference.cache
+C:\Users\Chisom\Documents\Visual Studio 2015\Projects\SecondHis\MySecGit\obj\Debug\MySecGit.exe
+C:\Users\Chisom\Documents\Visual Studio 2015\Projects\SecondHis\MySecGit\obj\Debug\MySecGit.pdb
