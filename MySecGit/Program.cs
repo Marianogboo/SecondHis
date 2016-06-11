@@ -8,9 +8,11 @@ namespace MySecGit
 {
     class Program
     {
+        static string name = "Zita Ogboo";
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World " + name);
             Console.ReadLine();
         }
     }
